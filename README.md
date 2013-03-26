@@ -1,5 +1,5 @@
 #Swivel
-Swivel is a robotic slide guitar system by [Jim Murphy](jimwmurphy.com)
+Swivel is a robotic slide guitar system by [Jim Murphy](http://www.jimwmurphy.com)
 This repository contains PCB files, CAD/CAM files, documentation on using all of them, and some very basic Arduino code for testing the board. 
 
 ##What's it good for?
