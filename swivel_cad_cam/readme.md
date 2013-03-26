@@ -1,0 +1,1 @@
+Solidworks parts and assemblies will go here
