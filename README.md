@@ -31,4 +31,4 @@ If you're interested in this project, I'd love to hear from you. Please contact 
 Special thanks to Trimpin, Ajay Kapur, Dale Carnegie, James McVay, Tim Exley, CalArts, and VUW ECS.
 
 ## License
-All of the Swivel intellectual property is released under the [GPL](http://www.gnu.org/licenses/gpl.html)
+All of the Swivel intellectual property is released under the [MIT License](http://opensource.org/licenses/MIT)
